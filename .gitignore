@@ -1,0 +1,6 @@
+cron-output.log
+/data/*.csv
+/data/img/*
+/.vscode
+/__pycache__
+/.mypy_cache
